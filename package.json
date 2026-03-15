@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "prepare-production": "node scripts/prepare-for-production.js",
-    "check-ready": "node scripts/check-production-ready.js"
+    "check-ready": "node scripts/check-production-ready.js",
+    "convert-assets": "ts-node scripts/convert-figma-assets.ts",
+    "fix-assets": "bash scripts/fix-assets.sh"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
