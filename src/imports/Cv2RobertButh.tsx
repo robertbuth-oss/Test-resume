@@ -1,4 +1,4 @@
-import robertwebsquare from "/images/robert_web_square.png";
+const robertwebsquare = "/images/robert_web_square.png";
 
 function DesignTools() {
   return (
