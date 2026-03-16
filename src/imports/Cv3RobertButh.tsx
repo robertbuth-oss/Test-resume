@@ -1,6 +1,4 @@
-import svgPaths from "./svg-13mt2d3mws";
-import imgImg90092 from "figma:asset/a924348516d25cd2b3a92595a116952b4f250d57.png";
-import imgRobertWebSquare1 from "figma:asset/d2659b2eeec5d33485b7a2ad209b74e42f82312f.png";
+import robert_web_square from "/images/robert_web_square.png";
 
 function CompanyRole() {
   return (

@@ -1,30 +1,3 @@
-import svgPaths from "./svg-542ui289qr";
-import imgImage23 from "figma:asset/fe577c146848d9d1fd2d2de8910794c661cfb27d.png";
-import imgBildschirmfoto20260308Um1947021 from "figma:asset/e5cfcf933d33a9587dbeb5c7b57f4e473d3cca22.png";
-import imgAppleMacbookPro15SpaceGrey from "figma:asset/5a252bb95de21ae458f25bec8781e5b3fb29191c.png";
-import imgEpos3Sammlungen from "figma:asset/ed773293dd414ab66e64430f763a23a67a015cad.png";
-import imgVision6RechtsSmileyDe from "figma:asset/03ef5633b37fa0c943390d67e920c9db4bf62e05.png";
-import imgMacbook from "figma:asset/6033a48235dc47b43f2f071302b08c37a820f0e2.png";
-import imgImage26 from "figma:asset/d63bc8db3ade84ab204baa2c41f1b8eb0354605c.png";
-import imgImage77 from "figma:asset/706c1da7a0558fd53a80d9a39c812ad4211cbbf5.png";
-import imgBildschirmfoto20221117Um17181 from "figma:asset/8df9cb3ec14c7472696b6fba4b3ef3ae16458454.png";
-import imgPagePlaceLogo from "figma:asset/1dc149d23ac09487929db7b7d6d55deaca11702b.png";
-import imgProjectCard from "figma:asset/33903d3f0e3db200117d2f79448dd1807fa58b8f.png";
-import imgImage131 from "figma:asset/b50b26a91b992479ca2271146092bc583809cae1.png";
-import imgImage132 from "figma:asset/03cb4e9cad47b7abfac23f0829e07d40462886e5.png";
-import imgImage133 from "figma:asset/106512bd21aa5c083ae66bdc522cd7c2116e60a3.png";
-import imgImage134 from "figma:asset/b14f02cf15af30e072730a94104bac50fe560985.png";
-import imgImage137 from "figma:asset/8ed37b0e7f5209714c34a3272a3e69a825732ecb.png";
-import imgStromsparmesser from "figma:asset/f960673fa7e89a11c5d3878ff0d441c054845743.png";
-import imgImage139 from "figma:asset/f4b17d9d4967ba1ee4530f5a250884b00f1af2dd.png";
-import imgYelloStromLogo from "figma:asset/12bc1cb505caca14f3828dfbbbf9cefdca627bfb.png";
-import imgMontblancMailing from "figma:asset/49d36471c254a746e2704837089a4f5a077cd018.png";
-import imgImage142 from "figma:asset/f7010d77886a2cb145fc5a7a1356f6afd8f5c8c7.png";
-import imgGrafittiKase from "figma:asset/c6f23bd2b6f8b04fea87e799294c51e96c47cf09.png";
-import imgCharacterIllustration1 from "figma:asset/335815d20f246b1c0bd597d0d2e5eb4475143c0c.png";
-import imgCharacterIllustration3 from "figma:asset/1a71b3f6f9d7abb2fa768454418e4fcd56106e0d.png";
-import imgGrafittiStyleWars from "figma:asset/df39be5604556c387b5921fde942bdafc500182e.png";
-
 function Frame() {
   return (
     <div className="absolute h-[258.21px] left-[66.27px] overflow-clip top-[42.65px] w-[418.164px]">

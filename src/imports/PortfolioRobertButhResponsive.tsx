@@ -1,15 +1,15 @@
-import svgPaths from "./svg-icmv2wjy8n";
-import imgImage143 from "figma:asset/42c44e1570b5b97d00e024c710b2c020319cf8a3.png";
-import imgImage145 from "figma:asset/5b11a91634e94f32d75ee869b284b9c6c7214662.png";
-import imgImage144 from "figma:asset/e3f7012ccdfc62f84b95807b3459c29d75928aa9.png";
-import imgPagePlaceLogo from "figma:asset/1dc149d23ac09487929db7b7d6d55deaca11702b.png";
-import imgImage160 from "figma:asset/3249bcac7314d4a3d5f905329bc4bac8dacff219.png";
-import img20160615DesignPrototypGambuu01 from "figma:asset/33903d3f0e3db200117d2f79448dd1807fa58b8f.png";
-import imgImage149 from "figma:asset/e1e70281d43bb4bd9435f0811f1ea76067a911d3.png";
-import imgImage161 from "figma:asset/0b57537fd8a9d1f2c1e3b72164c90421e1713074.png";
-import imgYelloStromHero from "figma:asset/23ef467bbdd242a54485c81f3f5e89f3167c5a6e.png";
-import imgMontblancHero from "figma:asset/0203045998e96eca315f84f0416cfb8ca1f9b13a.png";
-import imgRobertGraphHero from "figma:asset/25b61e7d7fa7f4c0879f6cd7870b83c1848d0cf6.png";
+import imgImage143 from "/images/image-143.png";
+import imgPolylooks-Logo from "/images/Polylooks-Logo.png";
+import imgImage144 from "/images/image-144.png";
+import imgPagePlaceLogo from "/images/page-place-logo.png";
+import imgImage160 from "/images/image-160.png";
+import img20160615DesignPrototypGambuu01 from "/images/gambuu-design-1.png";
+import imgImage149 from "/images/image-149.png";
+import imgImage161 from "/images/image-161.png";
+import imgYelloStromHero from "/images/yello-strom-hero.png";
+import imgMontblancHero from "/images/montblanc-hero.png";
+import imgRobertGraphHero from "/images/robert-graph-hero.png";
+import robert_web_square from "/images/robert_web_square.png";
 
 function Container() {
   return (

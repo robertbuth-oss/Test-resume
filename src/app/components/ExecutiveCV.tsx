@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
 import { MapPin, Phone, Mail, Linkedin, Award, GraduationCap, FileCheck, Globe } from "lucide-react";
-import imgRobertWebSquare from "figma:asset/d2659b2eeec5d33485b7a2ad209b74e42f82312f.png";
+import robert_web_square from "/images/robert_web_square.png";
 import { Disclaimer } from "./Disclaimer";
 
 // Types
