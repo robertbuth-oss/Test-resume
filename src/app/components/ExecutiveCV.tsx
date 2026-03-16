@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
 import { MapPin, Phone, Mail, Linkedin, Award, GraduationCap, FileCheck, Globe } from "lucide-react";
-import robert_web_square from "/images/robert_web_square.png";
+import robert_web_square from "public/images/robert_web_square.png";
 import { Disclaimer } from "./Disclaimer";
 
 // Types

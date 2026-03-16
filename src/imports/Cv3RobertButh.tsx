@@ -1,4 +1,4 @@
-import robert_web_square from "/images/robert_web_square.png";
+import robert_web_square from "/public/images/robert_web_square.png";
 
 function CompanyRole() {
   return (

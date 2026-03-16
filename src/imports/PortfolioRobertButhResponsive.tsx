@@ -1,15 +1,15 @@
-import imgImage143 from "/images/image-143.png";
-import imgPolylooks-Logo from "/images/Polylooks-Logo.png";
-import imgImage144 from "/images/image-144.png";
-import imgPagePlaceLogo from "/images/page-place-logo.png";
-import imgImage160 from "/images/image-160.png";
-import img20160615DesignPrototypGambuu01 from "/images/gambuu-design-1.png";
-import imgImage149 from "/images/image-149.png";
-import imgImage161 from "/images/image-161.png";
-import imgYelloStromHero from "/images/yello-strom-hero.png";
-import imgMontblancHero from "/images/montblanc-hero.png";
-import imgRobertGraphHero from "/images/robert-graph-hero.png";
-import robert_web_square from "/images/robert_web_square.png";
+import imgImage143 from "/public/images/image-143.png";
+import imgPolylooks-Logo from "/public/images/Polylooks-Logo.png";
+import imgImage144 from "/public/images/image-144.png";
+import imgPagePlaceLogo from "/public/images/page-place-logo.png";
+import imgImage160 from "/public/images/image-160.png";
+import img20160615DesignPrototypGambuu01 from "/public/images/gambuu-design-1.png";
+import imgImage149 from "/public/images/image-149.png";
+import imgImage161 from "/public/images/image-161.png";
+import imgYelloStromHero from "/public/images/yello-strom-hero.png";
+import imgMontblancHero from "/public/images/montblanc-hero.png";
+import imgRobertGraphHero from "/public/images/robert-graph-hero.png";
+import robert_web_square from "/public/images/robert_web_square.png";
 
 function Container() {
   return (

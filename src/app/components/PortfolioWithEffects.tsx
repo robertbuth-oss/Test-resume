@@ -2,7 +2,7 @@ import { motion, useScroll, useTransform, useReducedMotion } from "motion/react"
 import { useRef, useEffect, useState } from "react";
 import PortfolioRobertButhResponsive from "../../imports/PortfolioRobertButhResponsive";
 import { MapPin, Phone, Mail, Linkedin } from "lucide-react";
-import robert_web_square from "/images/robert_web_square.png";
+import robert_web_square from "public/images/robert_web_square.png";
 import { Disclaimer } from "./Disclaimer";
 
 type Language = "de" | "en";
